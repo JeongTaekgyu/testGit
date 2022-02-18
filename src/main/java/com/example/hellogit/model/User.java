@@ -1,4 +1,4 @@
-package model;
+package com.example.hellogit.model;
 
 import lombok.Getter;
 
@@ -13,6 +13,4 @@ public class User {
     @Id
     @Column(name = "id", nullable = false)
     private Long id;
-
-
 }
