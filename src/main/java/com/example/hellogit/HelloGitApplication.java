@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloGitApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HelloGitA    lication.class, args);
+        SpringApplication.run(HelloGitApplication.class, args);
     }
 
 }
